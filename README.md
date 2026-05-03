@@ -40,11 +40,3 @@ Cybersecurity + Computer Science undergraduate focused on:
 ## Tech Stack
 
 `Python` • `Linux` • `Burp Suite` • `Wireshark` • `Nmap` • `YARA` • `Bash`
-
----
-
-## Highlights
-
-🥇 HackWithMAIT 6.0 — 1st Place  
-🛡 Cybercrime Intern — Delhi Police  
-📄 Published Research Author
